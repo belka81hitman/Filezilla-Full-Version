@@ -300,4 +300,4 @@ This repository serves as the official landing page for FileZilla. The software 
 **Get the most recent version of FileZilla today!**
 
 ---
-**Last updated:** 2026-10-31 23:01:31 UTC
+**Last updated:** 2026-11-01 04:07:51 UTC
